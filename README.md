@@ -37,10 +37,11 @@ Stock Graph Feature
 
 ## Contributing
 Contributing Developer:
-Khushi
-Java Backend Developer | MERN Stack Learner
-GitHub: https://github.com/khushi-66
-Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at ryan.rotman@gmail.com.
+
+*Khushi
+*Java Backend Developer | MERN Stack Learner
+*GitHub: https://github.com/khushi-66
+*Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at ryan.rotman@gmail.com.
 
 <!-- # Getting Started with Create React App
 
